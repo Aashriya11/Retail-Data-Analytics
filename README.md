@@ -19,7 +19,7 @@ This project is a perfect example of how Excel—when used skillfully—can serv
 ## 2. Source of Dataset
 
 The datasets was sourced from:
-[https://www.kaggle.com/datasets/manjeetsingh/retaildataset/code](https://www.kaggle.com/datasets/manjeetsingh/retaildataset/code)
+[https://www.kaggle.com/datasets/manjeetsingh/retaildataset/code](https://www.kaggle.com/datasets/manjeetsingh/retaildataset/data)
 
 ---
 
