@@ -2,6 +2,8 @@
 
 This project analyzes Retail Weekly-Sales using Microsoft Excel. It features interactive dashboard, Weekly-Sales Trend Analysis, performance of Stores & Departments and critic score evaluations. Data was cleaned and visualized using Pivot Tables, Charts, Slicers, and Conditional Formatting with custom hyperlinks for easy navigation.
 
+![image alt](https://github.com/Aashriya11/Retail-Data-Analytics/blob/01e5bcbfc1757bd93940f2a578b02211323aa7df/Dashboard.PNG)
+
 ---
 
 ## 1. Introduction
