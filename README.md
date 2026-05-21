@@ -234,6 +234,8 @@ Ultimately, this project lays the groundwork for more advanced retail analytics 
 
 ---
 
-Made By: Aashriya Rawat
+## 🔗 Connect
+
+**Made By:** Aashriya Rawat 
 
 [![View LinkedIn Post](https://img.shields.io/badge/View_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/aashriya-rawat_dataanalytics-exceldashboard-retailanalytics-activity-7352285625108058114-tELM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaKQXIB1-GIE2Nng4OT5hcLpf_ah6hUxno)
