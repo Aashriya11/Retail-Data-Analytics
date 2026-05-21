@@ -232,4 +232,8 @@ Ultimately, this project lays the groundwork for more advanced retail analytics 
 * Automating dashboard refresh and report generation
 * Enabling real-time data streaming and live dashboards
 
+---
 
+Made By: Aashriya Rawat
+
+[![View LinkedIn Post](https://img.shields.io/badge/View_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-post-url)
