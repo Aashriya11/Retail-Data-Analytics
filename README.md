@@ -4,6 +4,8 @@ This project analyzes Retail Weekly-Sales using Microsoft Excel. It features int
 
 ![image alt](https://github.com/Aashriya11/Retail-Data-Analytics/blob/01e5bcbfc1757bd93940f2a578b02211323aa7df/Dashboard.PNG)
 
+Download the Project Excel File: [Retail Data Analysis.xlsx](https://github.com/Aashriya11/Retail-Data-Analytics/blob/356b81757daa96f389fb6b80ae52029f20ecdf89/Retail%20Data%20Analysis%20excel.xlsx)
+
 ---
 
 ## 1. Introduction
